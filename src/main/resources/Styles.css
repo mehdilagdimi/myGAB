@@ -1,0 +1,27 @@
+.root{
+	
+}
+
+.label{
+	-fx-font-size: 12px;
+	-fx-font-family: "Lucida Console";
+	-fx-text-fill: "black";
+	-fx-alignment: center;
+}
+
+#labelInitialMessage{
+	-fx-font-size: 20px;
+}
+
+#labelReceipt{
+	-fx-alignment: top-left;
+}
+
+#labelEnterPin{
+	-fx-font-size: 20 px;
+}
+
+#labelError{
+	-fx-font-size: 18px;
+	-fx-text-fill: "red";
+}
